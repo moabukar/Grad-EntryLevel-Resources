@@ -2,7 +2,7 @@
 
 ## [K8s Test](K8sTest.md)
 
-## Tech Test 2
+## [Docker Test](DockerTest.md)
 
 Sample format to follow for code (for contributors)
 
