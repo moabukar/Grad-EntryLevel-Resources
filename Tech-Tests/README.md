@@ -4,6 +4,8 @@
 
 ## [Docker Test](DockerTest.md)
 
+## [Terraform Test](TerraformTest.md)
+
 Sample format to follow for code (for contributors)
 
 ```sh
