@@ -1,6 +1,6 @@
 # Examples of Tech tests
 
-## Tech Test 1
+## [K8s Test](K8sTest.md)
 
 ## Tech Test 2
 
