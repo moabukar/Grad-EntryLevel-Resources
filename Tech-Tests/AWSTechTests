@@ -7,7 +7,7 @@ Setup an EC2 Instance with an IAM Role so that it can read, write and delete fro
 If you get that working consider using S3 Events to send a text message or email to yourself when a file is added to your S3 bucket from the instance.
 
 The solutions are in the dropdowns below, only check after you have attempted the tasks.
-
+l
 Check the Prerequisites dropdown to ensure you have AWS CLI installed and configured on your system - the below solution if for Mac users.
 
 <details>
