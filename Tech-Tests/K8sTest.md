@@ -7,10 +7,11 @@ Bonus: create a HPA
 
 2. Deployments needs to have a secret with name KEY_SECRET
 
-
 3. Mount this secret in the deployment
 
 4. KEY_SECRET should be a volume mount within the container
+
+5. 
 
 
 ## Criterias:
