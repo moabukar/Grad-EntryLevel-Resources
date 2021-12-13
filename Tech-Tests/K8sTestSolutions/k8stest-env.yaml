@@ -1,3 +1,4 @@
+## deployment - mounted a secret using an env variable and using a dedicated service account.
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -10,10 +11,10 @@ spec:
     matchLabels:
       app: k8stest
   strategy: 
-  type: RollingUpdate
-  rollingUpdate:
-    maxSurge: 1
-    maxUnavailable: 25%
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 25%
   template:
     metadata:
       labels:

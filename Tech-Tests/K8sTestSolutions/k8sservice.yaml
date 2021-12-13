@@ -1,3 +1,4 @@
+### service for nginx deployment
 apiVersion: v1
 kind: Service
 metadata:
