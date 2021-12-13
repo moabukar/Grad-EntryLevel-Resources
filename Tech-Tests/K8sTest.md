@@ -11,7 +11,7 @@ Bonus: create a HPA
 
 4. KEY_SECRET should be a volume mount within the container
 
-5. 
+4.1 KEY_SECRET mounted as an environment varialbe
 
 
 ## Criterias:
