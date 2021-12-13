@@ -17,7 +17,7 @@ Bonus: create a HPA
 ## Criterias:
 
 - Provide code with YAML manifest files, pipelines and any scripts used
-- Code is clean and readable
+- Clean and readable code
 - Document any steps you have taken in a README.md file
 - You need to use either the public cloud (AKS,EKS,GKE) or local K8s (minikube) to run the K8s YAML files
 - A dedicated service account for the deployment (dont use automount deployments)
@@ -33,6 +33,6 @@ Bonus: create a HPA
 
 ## Bonus points:
 
-- Containers used in deployment must be scanned before being deployed and severity is high or critical, pipeline shold fail
+- Containers used in deployment must be scanned before being deployed and if severity is high or critical; pipeline should fail
 - Container in Pod, should not be running as ROOT
 - Provide any code that you used to complete this task
