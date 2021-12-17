@@ -6,10 +6,14 @@ A set of curated exercises and questions one can practice before going for gradu
 
 ## Aim
 
-The aim of this repository is to provide graduate and entry-level applicants with sample tech tests. We are currently focusing on the field of Cloud & DevOps. And we hope to expand.
+The aim of this repository is to provide graduate and entry-level applicants with tech tests for them to practice. We are currently focusing on the field of Cloud & DevOps. And we hope to expand to other fields like Software Engineering and other fields of Tech
 
 
-Sample format to follow for code additions (for contributors)
+## Contributing
+
+Happy to take contributions from those who have experienced graduate and entry-level tech tests. 
+
+Sample format to follow for adding code (for contributors): 
 
 ```sh
 mkdir test
