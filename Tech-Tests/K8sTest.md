@@ -13,6 +13,10 @@ Bonus: create a HPA
 
 4.1 KEY_SECRET mounted as an environment varialbe
 
+## Points to note:
+- For applications, use simple ones like nginx, httpd etc.
+- You can use any language or open-source tool to solve this problem
+- If required, write extra code on Terraform or scripts
 
 ## Criterias:
 
@@ -23,13 +27,7 @@ Bonus: create a HPA
 - A dedicated service account for the deployment (dont use automount deployments)
 - You must ensure that there are always a minimum of 2 pods up and running
 - You must use a NodePort type service for the deployment
-- Only 1 pod must be unavailable during rolling update of deployment
-
-
-## Points to note:
-- For applications, use simple ones like nginx, httpd etc.
-- You can use any language or open-source tool to solve this problem
-- If required, write extra code on Terraform or scripts
+- Only 1 pod must be unavailable during rolling update of deployment (hint: use correct percentage when using the "maxUnavailable" paramter)
 
 ## Bonus points:
 
