@@ -14,6 +14,16 @@
 - [General Assembly](https://generalassemb.ly/)
 - [LoveCircular (UI/UX)](https://lovecircular.com/)
 - [Makers Tech (Software Development)](https://makers.tech/)
+- [Boolean](https://boolean.co.uk/)
+- [Le Wagon](https://www.lewagon.com/)
+
+### Apprenticeships
+
+- []()
+
+### Graduate Schemes
+
+- [Graduate Platform Engineer CIS 2022 by Capgemini](https://www.capgemini.com/gb-en/careers/jobs/graduate-platform-engineer-cis-2022/)
 
 
 Feel free to add any useful bootcamps, apprenticeships and courses.
