@@ -11,7 +11,7 @@ The aim of this repository is to provide graduate and entry-level applicants wit
 
 ## Contributing
 
-Happy to take contributions from those who have experienced graduate and entry-level tech tests. 
+Happy to take contributions from those who have experienced graduate, entry-level tech tests and have completed/graduated from bootcamps and apprenticeships. 
 
 Sample format to follow for adding code (for contributors): 
 
