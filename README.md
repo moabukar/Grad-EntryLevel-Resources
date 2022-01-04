@@ -6,7 +6,7 @@ A set of curated exercises and questions one can practice before going for gradu
 
 ## Aim
 
-The aim of this repository is to provide graduate and entry-level applicants with tech tests for them to practice. We are currently focusing on the field of Cloud & DevOps. And we hope to expand to other fields like Software Engineering and other fields of Tech
+The aim of this repository is to provide graduate and entry-level applicants with tech tests for them to practice and useful resources like bootcamps and apprenticeships. We are currently focusing on the field of Cloud & DevOps. And we hope to expand to other fields like Software Engineering and other fields of Tech
 
 
 ## Contributing
