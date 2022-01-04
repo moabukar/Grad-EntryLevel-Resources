@@ -2,7 +2,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 # Grad-Question-Tests
-A set of curated exercises and questions one can practice before going for graduate tech interviews and tech tests
+A set of curated exercises, questions one can practice before going for graduate tech interviews and tech tests. Also to include resources and links to graduate schemes, bootcamps and apprenticeships one can enroll into.
 
 ## Aim
 
