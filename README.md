@@ -9,6 +9,7 @@ A set of curated exercises, questions one can practice before going for graduate
 The aim of this repository is to provide graduate and entry-level applicants with tech tests for them to practice and useful resources like bootcamps and apprenticeships. We are currently focusing on the field of Cloud & DevOps. And we hope to expand to other fields like Software Engineering and other fields of Tech
 
 - [Tech Tests](./Tech-Tests/)
+- [BootCamps & Apprenticeships](./BootCamps-Apprenticeships)
 
 ## Contributing
 
