@@ -20,3 +20,49 @@ The `frontend` service should be exposed via an external network called `fronten
 The services should start in the follwoing order: `database, backend, frontend`.
 
 ### HINT: you will be writing a YAML file
+
+<details>
+<summary> Solution (Check once you finish the task): </summary>
+
+```
+version: "3.9"
+networks:
+     network1:
+       external: true
+       name: frontend-ingress
+     network2:
+       external: false
+       name: database
+services:
+     backend:
+       depends_on: databse
+       image: python:3.7
+       volumes:
+         - backend:/app/backend
+     ports:
+       - target: 6000
+         published: 6000
+         protocol: udp
+         mode: host
+     networks:
+       - database
+
+     frontend:
+       depends_on: backend
+       image: node:10.19.0
+       volumes:
+       - frontend:/app/frontend
+       ports:
+       - target: 8080
+         published: 80
+         protocol: tcp
+         mode: ingress
+       networks:
+        -frontend-ingress
+
+     database:
+       image: mysql:5.6.47
+       networks:
+       - database
+```
+</details>
